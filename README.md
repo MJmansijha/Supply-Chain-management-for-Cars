@@ -1,15 +1,15 @@
 # Supply-Chain-management-for-Cars
 
-![Screenshot (730)](https://github.com/user-attachments/assets/a5136320-0eee-48e7-91e0-a795d7df202c)
+![Screenshot (730)](https://github.com/user-attachments/assets/e3ee5a62-d385-478a-bf12-83f96f0fbfc9)
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-![Screenshot (733)](https://github.com/user-attachments/assets/45307905-29f5-4b08-afc2-9632cee68c3d)
+![Screenshot (733)](https://github.com/user-attachments/assets/44b78ae3-7ec5-4978-912a-81b893732bd3)
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-![Screenshot (731)](https://github.com/user-attachments/assets/fb90ab16-0618-4d99-a07c-1af497808f44)
+![Screenshot (731)](https://github.com/user-attachments/assets/62bdcd5f-bb57-4b66-bfbe-cd4b393fa3ce)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-![Screenshot (732)](https://github.com/user-attachments/assets/41c34eb0-5d15-4c64-ab24-e8891203bf8e)
+![Screenshot (732)](https://github.com/user-attachments/assets/33c8860b-dd16-4740-a86d-588e9f608954)
