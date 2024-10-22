@@ -1,5 +1,7 @@
 # Supply-Chain-management-for-Cars
 
+I developed a comprehensive Power BI dashboard for automotive supply chain management, consisting of four interconnected dashboards designed to track critical key performance indicators (KPIs). Additionally, the production schedule dashboard helps in planning and resource allocation, while the delivery performance and supplier quality dashboards enable effective evaluation of supplier reliability and product quality. 
+
 ![Screenshot (730)](https://github.com/user-attachments/assets/e3ee5a62-d385-478a-bf12-83f96f0fbfc9)
 
 --------------------------------------------------------------------------------------------------------------------------------------
